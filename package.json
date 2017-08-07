@@ -1,0 +1,16 @@
+{
+  "name": "rename-extract",
+  "version": "1.0.0",
+  "description": "Extract files and rename them",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alexandru Caprarescu",
+  "license": "MIT",
+  "dependencies": {
+    "decompress-targz": "^4.1.1",
+    "file-system": "^2.2.2",
+    "targz": "^1.0.1"
+  }
+}
